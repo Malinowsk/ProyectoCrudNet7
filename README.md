@@ -33,3 +33,9 @@ Este proyecto es un ejemplo de una aplicación CRUD (Crear, Leer, Actualizar, El
 ## Autor
 
 Juan Ignacio Rago - [Enlace al perfil de GitHub](https://github.com/Malinowsk)
+
+## Demostración
+
+¡Mira una demostración de la aplicación en acción!
+
+[![Demostración de la Aplicación](https://img.youtube.com/vi/cpCRZgLqzgg/maxresdefault.jpg)](https://youtu.be/cpCRZgLqzgg)
