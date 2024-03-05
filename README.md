@@ -32,4 +32,4 @@ Este proyecto es un ejemplo de una aplicación CRUD (Crear, Leer, Actualizar, El
 
 ## Autor
 
-Juan Ignacio Rago - [[Enlace al perfil de GitHub](https://github.com/Malinowsk)]
+Juan Ignacio Rago - [Enlace al perfil de GitHub](https://github.com/Malinowsk)
